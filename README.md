@@ -1,4 +1,4 @@
-# Serbia Election Scraper
+# Serbia 2016. Election Tweet Collection
 -----
 
 ### Description
