@@ -1,4 +1,4 @@
-# Serbia 2016. Election Tweet Collection
+# Serbia 2016. Elections Tweet Collection
 -----
 
 ### Description
