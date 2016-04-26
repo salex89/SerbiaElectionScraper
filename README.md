@@ -12,4 +12,4 @@ This is a work in progress, without any particular goal or interest.
 Description: Zipped textual file with election related tweets (hashtags #izbori2016 and #избори2016) obtained from the [Twitter Streaming API](https://dev.twitter.com/streaming/overview) starting from 24.04.2016 02:00 until 25.04.2016 09:00. 
 
 ### License
-All content here is released under the [WTFPL License](http://www.wtfpl.net/)
+All content here is completely free to use for any purpose... But let me know if you do anything cool, I would like to see it :) .
